@@ -3,7 +3,7 @@ const qrcode = require('qrcode-terminal');
 const axios = require('axios');
 
 // ⚠️ URL completa de tu Google Apps Script (termina en /exec)
-const WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbwCPGOaZllFNLBl6jr5yy1bGPqASeLrv0v964bMKLXXa1LSF5HyakNaZBh4uBl5tIKW/exec';
+const WEBHOOK_URL = https://script.google.com/macros/s/AKfycbwCPGOaZllFNLBl6jr5yy1bGPqASeLrv0v964bMKLXXa1LSF5HyakNaZBh4uBl5tIKW/exec';
 
 const client = new Client({
     authStrategy: new LocalAuth(),
